@@ -5,6 +5,8 @@ body {
 
 .headersect {
   background-image: url(../images/the-flatiron-building.png);
+  background-size: cover;
+  background-position-x: center;
 }
 
 h1 {
@@ -13,7 +15,8 @@ h1 {
   color: white;
 }
 
-.links {
+.links a {
   font-size: 18px;
+  font-weight: bold;
   color: white;
 }
