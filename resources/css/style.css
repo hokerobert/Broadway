@@ -2,3 +2,14 @@ body {
   text-align: center;
   font-family: "helvetica", "sans-serif";
 }
+
+h2 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.links {
+  font-size: 18px;
+  color: white;
+}
